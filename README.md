@@ -5,6 +5,7 @@ Capstone Project - SwiftKey
 
 File|Description
 ---|---
+Slide Deck|[Presentation](http://rpubs.com/pcbrom/nextwordpres)
 App_Swiftkey.tar.gz|[Shiny application scripts](https://supermetrica.shinyapps.io/nextword/)
 Exp_Data_An.html|[Exploratory data analysis](http://rpubs.com/pcbrom/exploratory)
 grams.Rdata|[Bigrams used to create the model](https://www.dropbox.com/s/34wkoabz0jmn13w/bigrams.RDS?dl=1)
