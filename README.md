@@ -1,3 +1,5 @@
+![](https://github.com/pcbrom/CPSK/blob/master/jhu.png?raw=true)
+
 # **CPSK**
 Capstone Project - SwiftKey
 
