@@ -9,3 +9,6 @@ grams.Rdata|[Bigrams used to create the model](https://www.dropbox.com/s/34wkoab
 nnet.RDS|[Neural networks prediction model (74% Accuracy)](https://www.dropbox.com/s/tn53lef69u58wkl/nnet.RDS?dl=1)
 small_db.RDS|[Stratified sample from the original database (size: 10% - Tidy data)](https://www.dropbox.com/s/iz8avrsgn4390qg/small_db.RDS?dl=1)
 
+# **Simple to use - Just type**
+
+![](https://github.com/pcbrom/CPSK/blob/master/imagem_prog.png?raw=true)
